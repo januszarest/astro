@@ -1,0 +1,16 @@
+README.md
+setup.py
+astro/__init__.py
+astro/aspects.py
+astro/planets.py
+astro/utils.py
+astro/zodiacs.py
+astro.egg-info/PKG-INFO
+astro.egg-info/SOURCES.txt
+astro.egg-info/dependency_links.txt
+astro.egg-info/top_level.txt
+tests/__init__.py
+tests/test_aspects.py
+tests/test_planets.py
+tests/test_utils.py
+tests/test_zodiacs.py
